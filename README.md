@@ -27,6 +27,36 @@ Skills: Python / Django / Flask / Docker / SIEM Framework / SQL / HTML / CSS
       <br>Python
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/django-icon.svg" width="48" height="48" alt="django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/flask.svg" width="48" height="48" alt="flask" />
+      </a>
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/what-is-siem-small.jpg" width="48" height="48" alt="siem" />
+      </a>
+      <br>SIEM
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/burpsuit-security-software.svg" width="48" height="48" alt="burpsuit" />
+      </a>
+      <br>BurpSuit
+    </td>
+        <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
@@ -34,15 +64,15 @@ Skills: Python / Django / Flask / Docker / SIEM Framework / SQL / HTML / CSS
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/parrot_Logo.png" width="48" height="48" alt="parrot" />
       </a>
-      <br>Docker
+      <br>ParrotOS
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/kalilinux.svg" width="48" height="48" alt="kalilinux" />
       </a>
-      <br>Debian
+      <br>Kali Linux
     </td>
 
   </tr>

@@ -21,7 +21,6 @@ Skills: Python / Django / Flask / Docker / SIEM Framework / SQL / HTML / CSS
 
 <table>
   <tr>
-    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />

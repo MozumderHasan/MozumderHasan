@@ -40,13 +40,13 @@ Skills: Python / Django / Flask / Docker / SIEM Framework / SQL / HTML / CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/what-is-siem-small.jpg" width="48" height="48" alt="siem" />
+        <img src="./img/siem.jpg" width="48" height="48" alt="siem" />
       </a>
       <br>SIEM
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/burpsuit-security-software.svg" width="48" height="48" alt="burpsuit" />
+        <img src="./img/burpsuite-security-software.svg" width="48" height="48" alt="burpsuit" />
       </a>
       <br>BurpSuit
     </td>
@@ -64,7 +64,7 @@ Skills: Python / Django / Flask / Docker / SIEM Framework / SQL / HTML / CSS
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/parrot_Logo.png" width="48" height="48" alt="parrot" />
+        <img src="./img/Parrot_Logo.png" width="48" height="48" alt="parrot" />
       </a>
       <br>ParrotOS
     </td>

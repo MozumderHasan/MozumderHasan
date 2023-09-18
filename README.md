@@ -14,11 +14,8 @@ Skills: Python / Django / Flask / Docker / SIEM Framework / SQL / HTML / CSS
 - 💬 Ask me about Cybersecurity or Python
 - 📫 How to reach me: Email or Linkedin 
 <br>
-
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
-
 > Tools, languages, and other things that I like to work with.
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -48,8 +45,6 @@ Skills: Python / Django / Flask / Docker / SIEM Framework / SQL / HTML / CSS
 
   </tr>
 </table>
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MozumderHasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/md-hasan-mozumder/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MozumderHasan)](https://github.com/anuraghazra/github-readme-stats)
